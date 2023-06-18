@@ -1,9 +1,8 @@
 <h1 align="center"> Hi, my name is Carol! 👋 </h1>
 
-
- <div align="center">  
+<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carolinacastilhos&show_icons=true&count_private=true&hide_rank=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Carolina Castilhos stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-l=true&angs/?username=carolinacastilhos&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinacastilhos&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" alt="Carolina Castilhos languages rank"/>
 </div>
 
 ##
