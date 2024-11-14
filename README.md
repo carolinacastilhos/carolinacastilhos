@@ -8,7 +8,7 @@
 </p>
 
 <div align="center"> 
-Check out <a target="_blank" href="https://carolinacastilhos.framer.website/">my portfolio </a>on Framer
+Check out <a href="https://carolinacastilhos.framer.website/">my portfolio </a>on Framer
 </div>
 <br><br>
 
